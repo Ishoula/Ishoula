@@ -87,7 +87,7 @@ A system to manage poultry operations with frontend and backend integration.
 ## 📫 Connect With Me
 
 - GitHub: [https://github.com/Ishoula](https://github.com/Ishoula)  
-- Email: your-email@example.com  
+- Email: shoulamite2k@gmail.com  
 
 ---
 
