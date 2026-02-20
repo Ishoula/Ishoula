@@ -62,14 +62,14 @@ A system to manage poultry operations with frontend and backend integration.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishoula&show_icons=true&theme=react-dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishoula&layout=compact&theme=react-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishoula&show_icons=true&theme=react-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishoula&layout=compact&theme=react-dark&hide_border=true" height="165" />
 </p>
 
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishoula&theme=react-dark&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishoula&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 ---
 
