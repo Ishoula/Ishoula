@@ -1,6 +1,6 @@
 # Hi there, I'm Ishema 👋
 
-Welcome to my GitHub profile. I'm a backend-focused developer and tech student passionate about building scalable systems, mobile applications, and data-driven solutions.
+Welcome to my GitHub profile. I'm a full-stack web and mobile developer and tech student passionate about building scalable systems, mobile applications, and data-driven solutions.
 
 ---
 
