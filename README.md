@@ -60,11 +60,6 @@ A system to manage poultry operations with frontend and backend integration.
 
 ---
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishoula&theme=react-dark&area=true&hide_border=true" width="100%" alt="Ishema's Activity Graph" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ishoula&theme=monokai&no-frame=true&margin-w=15" alt="Ishema's Trophies" />
 </p>
