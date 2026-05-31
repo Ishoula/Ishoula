@@ -113,8 +113,8 @@ integration.
 ### 🐔 [RecipeFlow](https://github.com/Ishoula/RecipeFlow)
 
 **Recipe Platform** 
-
 •Technologies: **Reacjs**, **Spring Boot**, **MySQL**, **Cloudinary**
+
 •Built a full-stack recipe sharing app with CRUD operations and user interactions.
 •Integrated Cloudinary for image upload and media management.
 •Developed REST APIs and responsive UI for mobile and desktop users
