@@ -56,7 +56,7 @@ I build scalable, efficient, and user-focused applications across web and mobile
 
 ## 🚀 Featured Projects
 
-### 📚 DevTrack — Developer Productivity Platform
+### 🧑‍💻 DevTrack — Developer Productivity Platform
 **Tech:** Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Recharts  
 
 - Built a full-stack productivity platform for developers  
