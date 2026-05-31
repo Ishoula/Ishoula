@@ -11,7 +11,7 @@ I build scalable, efficient, and user-focused applications across web and mobile
 - ⚙️ Backend developer specializing in **Spring Boot** and **Node.js**
 - 🌐 Full-stack developer using **Next.js**, **React.js**, and **Express.js**
 - 📱 Mobile developer with **React Native (Expo)**
-- 🗄️ Experienced with SQL & NoSQL databases
+- 🗄️ Experienced with SQL & NoSQL databases and modern backend services
 - 🧩 Interested in **distributed systems**, **networking**, and **system design**
 - 🚀 Focused on clean code, scalability, and continuous learning
 
@@ -26,6 +26,8 @@ I build scalable, efficient, and user-focused applications across web and mobile
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+---
+
 ### 🎨 Frontend & Mobile
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -33,15 +35,22 @@ I build scalable, efficient, and user-focused applications across web and mobile
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
+
 ### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 🗄️ Databases
+---
+
+### 🗄️ Databases & Backend Services
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=postgresql&logoColor=black)
 
 ---
 
