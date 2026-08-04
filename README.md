@@ -130,6 +130,17 @@ I build scalable, efficient, and user-focused applications across web and mobile
 
 ---
 
+---
+## 📚 Currently Learning
+
+* 🌐 **Computer Networking** — TCP/IP, HTTP/HTTPS, DNS, routing, network security, and network architecture
+* 📊 **Data Science & Analytics** — Python, data analysis, visualization, statistics, and working with real-world datasets
+* 🏗️ **System Design** — Designing reliable, scalable, and maintainable software systems
+* 🔄 **Distributed Systems** — Understanding scalability, communication between services, fault tolerance, and distributed architectures
+* ☁️ **Cloud & Infrastructure** — Learning how applications are deployed, connected, monitored, and scaled in production
+
+---
+
 ## 📫 Contact
 - GitHub: [@Ishoula](https://github.com/Ishoula)
 - Email: shoulamite2k@gmail.com
