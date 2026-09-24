@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ishema
+# 👋 Hi, I'm Shoula
 
 **Full-Stack Developer | Backend Engineer | Mobile Developer**
 
