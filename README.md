@@ -1,161 +1,92 @@
-# 👋 Hi, I'm IShoula
-
-**Full-Stack Developer | Backend Engineer | Mobile Developer**
-
-I build scalable, efficient, and user-focused applications across web and mobile platforms, with a strong interest in backend systems, APIs, and software architecture.
-
----
-
-## 🧠 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+IShoula+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%E2%9A%99%EF%B8%8F;Mobile+App+Developer+%F0%9F%93%B1;Building+Scalable+Systems+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing SVG" />
-</p>
-
----
-
-I'm a tech student and software developer passionate about building **scalable, efficient, and user-focused applications** across web and mobile platforms.
-
-* ⚙️ **Backend:** Spring Boot, Node.js, and Express.js
-* 🌐 **Frontend:** Next.js, React.js, and Tailwind CSS
-* 📱 **Mobile:** React Native with Expo
-* 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, and Supabase
-* 🧩 **Interests:** System design, distributed systems, and computer networking
-* 🚀 **Mission:** Build meaningful software, solve real-world problems, and keep improving.
-
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-### 🎨 Frontend & Mobile
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
----
-
-### 🗄️ Databases & Backend Services
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=postgresql&logoColor=black)
-
----
-
 ## 🚀 Featured Projects
 
-### 🧑‍💻 DevTrack — Developer Productivity Platform
-**Tech:** Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Recharts  
+### 🏥 AlmaSync — AI-Powered Healthcare Follow-Up Platform
 
-- Built a full-stack productivity platform for developers  
-- Implemented project & task tracking with Kanban board  
-- Integrated GitHub activity analytics via Edge Functions  
-- Designed interactive dashboards for productivity insights  
-- Deployed on Vercel with Supabase backend  
+**Next.js · NestJS · PostgreSQL · Prisma · AI · LangGraph**
 
----
+A healthcare platform designed to help facilities manage patients, appointments, follow-ups, medication reminders, and staff workflows.
 
-### 🏠 Livora — Real Estate Mobile App
-**Tech:** React Native (Expo) · Express.js · PostgreSQL · JWT · TypeORM  
-
-- Built a cross-platform real estate application  
-- Implemented secure authentication and user management  
-- Developed REST API backend with PostgreSQL  
-- Added messaging, favorites, and property listing features  
-
----
-
-### 🐔 Smart Poultry App
-**Tech:** React Native · Node.js · Express.js · MongoDB · Socket.io · JWT  
-
-- Developed farm management system for tracking operations  
-- Implemented real-time updates using Socket.io  
-- Built authentication and batch management system  
-- Designed mobile-first UI for field usage  
+* 👩‍⚕️ Role-based dashboards for doctors, nurses, and administrators
+* 📅 Patient and appointment management
+* 📞 Automated patient communication and appointment reminders
+* 💊 Medication adherence and follow-up tracking
+* 🤖 AI-powered patient summaries and workflow assistance
+* 🩻 Medical-image analysis with AI assistance
+* 🚨 Alerts and escalation workflows
+* 📊 Healthcare analytics and monitoring
+* 🌍 Designed with Rwanda's healthcare environment in mind
 
 ---
 
 ### 💰 Mula — Expense Tracker
-**Tech:** React Native (Expo) · Express.js · PostgreSQL · Clerk · Upstash Redis  
 
-- Built a full-stack expense tracking application  
-- Implemented secure authentication with Clerk  
-- Added real-time transaction handling with PostgreSQL  
-- Used Redis for rate limiting and performance optimization  
-- Supported iOS, Android, and Web deployment  
+**React Native · Expo · Express.js · PostgreSQL · Clerk · Upstash Redis**
+
+A full-stack expense tracking application for managing personal finances across multiple platforms.
+
+* 💳 Transaction management
+* 🔐 Clerk authentication
+* 🗄️ PostgreSQL data storage
+* ⚡ Redis-based rate limiting
+* 📱 iOS and Android support
+* 🌐 Web deployment support
+
+---
+
+### 🧑‍💻 DevTrack — Developer Productivity Platform
+
+**Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Recharts**
+
+A full-stack productivity platform designed to help developers organize projects and understand their development activity.
+
+* 📋 Project and task management with Kanban boards
+* 📊 Interactive productivity dashboards
+* 🐙 GitHub activity analytics
+* ⚡ Supabase Edge Functions
+* 🔐 Authentication and database security
+* ☁️ Deployed with Vercel + Supabase
+
+---
+
+### 🏠 Livora — Real Estate Mobile App
+
+**React Native · Expo · Express.js · PostgreSQL · JWT · TypeORM**
+
+A cross-platform mobile application for discovering and managing real estate properties.
+
+* 🏘️ Property listing and management
+* 🔐 Secure authentication and user management
+* 💬 Messaging functionality
+* ❤️ Favorites and saved properties
+* 🔌 REST API backend
+* 📱 Cross-platform mobile experience
+
+---
+
+### 🐔 Smart Poultry App
+
+**React Native · Node.js · Express.js · MongoDB · Socket.io · JWT**
+
+A farm management application designed to help poultry farmers monitor and manage their operations.
+
+* 🐔 Farm and batch management
+* 📊 Operational tracking
+* ⚡ Real-time updates with Socket.io
+* 🔐 JWT authentication
+* 📱 Mobile-first interface
+* 🌐 RESTful backend architecture
 
 ---
 
 ### 🍲 RecipeFlow — Recipe Sharing Platform
-**Tech:** React.js · Spring Boot · MySQL · Cloudinary  
 
-- Built a full-stack recipe sharing application  
-- Implemented CRUD operations for recipes and users  
-- Integrated Cloudinary for image uploads  
-- Developed responsive UI for mobile and desktop  
+**React.js · Spring Boot · MySQL · Cloudinary**
 
----
+A full-stack platform for creating, sharing, and discovering recipes.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishoula&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishoula&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ishoula&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 🎯 Goals
-- Become a strong Backend Engineer
-- Master system design & distributed systems
-- Build scalable full-stack applications
-- Contribute to open-source projects
-- Grow expertise in data-driven systems and analytics
-
----
-
----
-## 📚 Currently Learning
-
-* 🌐 **Computer Networking** — TCP/IP, HTTP/HTTPS, DNS, routing, network security, and network architecture
-* 📊 **Data Science & Analytics** — Python, data analysis, visualization, statistics, and working with real-world datasets
-* 🏗️ **System Design** — Designing reliable, scalable, and maintainable software systems
-* 🔄 **Distributed Systems** — Understanding scalability, communication between services, fault tolerance, and distributed architectures
-* ☁️ **Cloud & Infrastructure** — Learning how applications are deployed, connected, monitored, and scaled in production
-
----
-
-## 📫 Contact
-- GitHub: [@Ishoula](https://github.com/Ishoula)
-- Email: shoulamite2k@gmail.com
-- LinkedIn: Ishema Shimwa Shoulamite
-
----
-
-## ⚡ Developer Mindset
-> "I build, I learn, and I improve — every single day."
+* 🍳 Recipe creation and management
+* 👤 User management
+* 🔄 CRUD operations
+* 🖼️ Cloudinary image uploads
+* 📱 Responsive design
+* ⚙️ Spring Boot REST API
