@@ -7,13 +7,22 @@ I build scalable, efficient, and user-focused applications across web and mobile
 ---
 
 ## 🧠 About Me
-- 🎓 Tech student and passionate software developer
-- ⚙️ Backend developer specializing in **Spring Boot** and **Node.js**
-- 🌐 Full-stack developer using **Next.js**, **React.js**, and **Express.js**
-- 📱 Mobile developer with **React Native (Expo)**
-- 🗄️ Experienced with SQL & NoSQL databases and modern backend services
-- 🧩 Interested in **distributed systems**, **networking**, and **system design**
-- 🚀 Focused on clean code, scalability, and continuous learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+IShoula+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%E2%9A%99%EF%B8%8F;Mobile+App+Developer+%F0%9F%93%B1;Building+Scalable+Systems+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing SVG" />
+</p>
+
+---
+
+I'm a tech student and software developer passionate about building **scalable, efficient, and user-focused applications** across web and mobile platforms.
+
+* ⚙️ **Backend:** Spring Boot, Node.js, and Express.js
+* 🌐 **Frontend:** Next.js, React.js, and Tailwind CSS
+* 📱 **Mobile:** React Native with Expo
+* 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, and Supabase
+* 🧩 **Interests:** System design, distributed systems, and computer networking
+* 🚀 **Mission:** Build meaningful software, solve real-world problems, and keep improving.
+
 
 ---
 
