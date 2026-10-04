@@ -74,46 +74,6 @@ My main focus is **backend engineering, full-stack development, mobile applicati
 
 ---
 
-# 👋 Hi, I'm IShoula
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%E2%9A%99%EF%B8%8F;Mobile+Developer+%F0%9F%93%B1;Building+Scalable+Systems+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <strong>Building scalable, efficient, and user-focused software across web, backend, and mobile.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ishoula">
-    <img src="https://img.shields.io/github/followers/Ishoula?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Ishoula?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🧠 About Me
-
-I'm a tech student and passionate software developer who enjoys turning ideas into practical software.
-
-My main focus is **backend engineering, full-stack development, mobile applications, and software architecture**. I enjoy understanding not only how an application looks, but also how the systems behind it communicate, scale, and remain reliable.
-
-* 🎓 Tech student and passionate software developer
-* ⚙️ Backend developer specializing in **Spring Boot** and **Node.js**
-* 🌐 Full-stack developer using **Next.js**, **React.js**, and **Express.js**
-* 📱 Mobile developer with **React Native (Expo)**
-* 🗄️ Experienced with SQL & NoSQL databases
-* 🧩 Interested in **system design, distributed systems, and networking**
-* 🚀 Focused on clean code, scalability, and continuous learning
-* 🌱 Always experimenting with new technologies and building real-world projects
-
-> **"I build, I learn, and I improve — every single day."**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
