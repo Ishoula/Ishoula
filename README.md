@@ -307,13 +307,6 @@ Working with Python, data analysis, visualization, statistics, and real-world da
 
 ---
 
-## 💡 What I Enjoy Building
-
-**Full-Stack Applications** · **Backend Systems** · **APIs & Services**  
-**Mobile Applications** · **AI-Powered Systems** · **System Architecture**  
-**Developer Tools**
----
-
 ## 📫 Let's Connect
 
 <p align="center">
