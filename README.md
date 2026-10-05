@@ -234,18 +234,11 @@ Learning how applications are deployed, connected, monitored, secured, and scale
 Working with Python, data analysis, visualization, statistics, and real-world datasets.
 
 ---
-
 ## 💡 What I Enjoy Building
 
-```text
-Web Applications       ████████████████████
-Backend Systems        ████████████████████
-Mobile Applications    ██████████████████░░
-APIs & Services        ████████████████████
-System Architecture    ████████████████░░░░
-Networking              ██████████████░░░░░░
-```
-
+**Full-Stack Applications** · **Backend Systems** · **APIs & Services**  
+**Mobile Applications** · **AI-Powered Systems** · **System Architecture**  
+**Developer Tools**
 ---
 
 ## 📫 Let's Connect
