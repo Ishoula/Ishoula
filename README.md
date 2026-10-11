@@ -258,12 +258,3 @@ Working with Python, data analysis, visualization, statistics, and real-world da
 <p align="center">
   <i>Building. Learning. Improving.</i>
 </p>
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishoula&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>Building. Learning. Improving.</i>
-</p>
